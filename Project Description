@@ -1,3 +1,0 @@
-This project aims to create a simplified yet functional shopping cart system, similar to those used by popular online grocery platforms. The primary goal is to demonstrate proficiency in both procedural and object-oriented programming paradigms, while also showcasing skills in developing user-friendly Graphical User Interfaces (GUI). The shopping cart system will allow users to browse a selection of items, add products to their cart, adjust quanitity of items, and view total costs with tax for their cart.
-
-To run this project corretly, download all 3 files and place it within a folder. Run the two .py files including jimmy_nguyen_final_project_CLASS and jimmy_nguyen_final_project_GUI. From here, you will be able to access the shopping cart system!
